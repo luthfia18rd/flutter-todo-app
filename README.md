@@ -41,13 +41,21 @@ lib/
 └── main.dart
 
 🚀 Getting Started
+
     1. Clone Repository
+
     git clone https://github.com/username/flutter-todo-app.git
+    
     2. Open Project
+    
     cd flutter-todo-app
+    
     3. Install Dependencies
+    
     flutter pub get
+    
     4. Run Application
+    
     flutter run
     
 📸 Screenshots
@@ -57,8 +65,11 @@ lib/
 This project was developed as a learning implementation of Flutter mobile application development and local database management using SQLite.
 
 👨‍💻 Author
+
 Luthfia Rosmala Dewi
+
 Information Systems Student
 
 ⭐ Support
+
 If you like this project, don't forget to give it a ⭐ on GitHub!
