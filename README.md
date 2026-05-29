@@ -1,75 +1,97 @@
-Flutter Todo App
+# 📝 Flutter Todo App
 
-A simple and clean Todo List application built using Flutter. This application helps users manage daily tasks efficiently with an intuitive and responsive interface.
+A simple and modern Todo List application built using Flutter.  
+This application helps users manage daily tasks efficiently with a clean and responsive user interface.
 
-✨ Features
+---
 
-  ➕ Add new tasks
+## ✨ Features
 
-  ✅ Mark tasks as completed
-  
-  🗑️ Delete tasks
-  
-  ✏️ Edit existing tasks
-  
-  💾 Local data storage using SQLite
-  
-  📱 Responsive mobile interface
-  
-  🎨 Simple and modern UI design
-  
-  🛠️ Technologies Used
+- ➕ Add new tasks
+- ✏️ Edit tasks
+- ✅ Mark tasks as completed
+- 🗑️ Delete tasks
+- 💾 Local data storage using SQLite
+- 📱 Responsive mobile design
 
-Flutter
-  - Dart
-  - SQLite (sqflite)
-  - Path Provider
+---
 
-📂 Project Structure
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- SQLite (`sqflite`)
+- Path Provider
+
+---
+
+## 📂 Project Structure
+
+```bash
 lib/
-
 ├── components/
-
 ├── controller/
-
 ├── db/
-
 ├── helper/
-
 ├── views/
-
 └── main.dart
+```
 
-🚀 Getting Started
+---
 
-    1. Clone Repository
+## 🚀 Getting Started
 
-    git clone https://github.com/username/flutter-todo-app.git
-    
-    2. Open Project
-    
-    cd flutter-todo-app
-    
-    3. Install Dependencies
-    
-    flutter pub get
-    
-    4. Run Application
-    
-    flutter run
-    
-📸 Screenshots
+### 1️⃣ Clone Repository
 
-📌 Purpose of This Project
+```bash
+git clone https://github.com/username/flutter-todo-app.git
+```
 
-This project was developed as a learning implementation of Flutter mobile application development and local database management using SQLite.
+### 2️⃣ Open Project Folder
 
-👨‍💻 Author
+```bash
+cd flutter-todo-app
+```
 
-Luthfia Rosmala Dewi
+### 3️⃣ Install Dependencies
 
+```bash
+flutter pub get
+```
+
+### 4️⃣ Run Application
+
+```bash
+flutter run
+```
+
+---
+
+## 📸 Application Screenshot
+
+_Add your application screenshots here_
+
+Example:
+
+```md
+![Home Screen](assets/screenshots/home.png)
+```
+
+---
+
+## 🎯 Project Purpose
+
+This project was created as a learning implementation of Flutter mobile application development and local database management using SQLite.
+
+---
+
+## 👨‍💻 Author
+
+**Luthfia Rosmala Dewi**  
 Information Systems Student
 
-⭐ Support
+---
+
+## ⭐ Support
 
 If you like this project, don't forget to give it a ⭐ on GitHub!
