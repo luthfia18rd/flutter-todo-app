@@ -1,3 +1,7 @@
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
+![Dart](https://img.shields.io/badge/Dart-2.x-blue)
+![SQLite](https://img.shields.io/badge/Database-SQLite-green)
+
 # 📝 Flutter Todo App
 
 A simple and modern Todo List application built using Flutter.  
