@@ -38,10 +38,6 @@ lib/
     
 📸 Screenshots
 
-Tambahkan screenshot aplikasi di sini nanti, contoh:
-
-assets/screenshots/home.png
-
 📌 Purpose of This Project
 
 This project was developed as a learning implementation of Flutter mobile application development and local database management using SQLite.
