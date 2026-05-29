@@ -71,23 +71,23 @@ flutter run
 
 ### 🔐 Authentication Page
 
-![Authentication](assets/screenshots/authentication.png)
+![Authentication](assets/authentication.png)
 
 ### 🔑 Login Page
 
-![Login](assets/screenshots/login.png)
+![Login](assets/login.png)
 
 ### 📝 Sign Up Page
 
-![Sign Up](assets/screenshots/signup.png)
+![Sign Up](assets/signup.png)
 
 ### 👤 Profile Detail Page
 
-![Profile](assets/screenshots/profile.png)
+![Profile](assets/profile.png)
 
 ### ✅ Main Todo Page
 
-![Todo App](assets/screenshots/todo.png)
+![Todo App](assets/todo.png)
 
 ---
 
