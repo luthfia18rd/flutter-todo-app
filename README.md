@@ -3,27 +3,41 @@ Flutter Todo App
 A simple and clean Todo List application built using Flutter. This application helps users manage daily tasks efficiently with an intuitive and responsive interface.
 
 ✨ Features
+
   ➕ Add new tasks
+
   ✅ Mark tasks as completed
+  
   🗑️ Delete tasks
+  
   ✏️ Edit existing tasks
+  
   💾 Local data storage using SQLite
+  
   📱 Responsive mobile interface
+  
   🎨 Simple and modern UI design
+  
   🛠️ Technologies Used
 
 Flutter
-  Dart
-  SQLite (sqflite)
-  Path Provider
+  - Dart
+  - SQLite (sqflite)
+  - Path Provider
 
 📂 Project Structure
 lib/
+
 ├── components/
+
 ├── controller/
+
 ├── db/
+
 ├── helper/
+
 ├── views/
+
 └── main.dart
 
 🚀 Getting Started
