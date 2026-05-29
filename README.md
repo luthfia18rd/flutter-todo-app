@@ -67,15 +67,27 @@ flutter run
 
 ---
 
-## 📸 Application Screenshot
+## 📸 Application Screenshots
 
-_Add your application screenshots here_
+### 🔐 Authentication Page
 
-Example:
+![Authentication](assets/screenshots/authentication.png)
 
-```md
-![Home Screen](assets/screenshots/home.png)
-```
+### 🔑 Login Page
+
+![Login](assets/screenshots/login.png)
+
+### 📝 Sign Up Page
+
+![Sign Up](assets/screenshots/signup.png)
+
+### 👤 Profile Detail Page
+
+![Profile](assets/screenshots/profile.png)
+
+### ✅ Main Todo Page
+
+![Todo App](assets/screenshots/todo.png)
 
 ---
 
