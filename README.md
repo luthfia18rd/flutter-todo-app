@@ -2,10 +2,12 @@
 ![Dart](https://img.shields.io/badge/Dart-2.x-blue)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-green)
 
-# 📝 Flutter Todo App
+<h1 align="center">📝 Flutter Todo App</h1>
 
+<p align="center">
 A simple and modern Todo List application built using Flutter.  
 This application helps users manage daily tasks efficiently with a clean and responsive user interface.
+</p>
 
 ---
 
@@ -48,7 +50,7 @@ lib/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/username/flutter-todo-app.git
+git clone https://github.com/itsluthfiard/flutter-todo-app.git
 ```
 
 ### 2️⃣ Open Project Folder
